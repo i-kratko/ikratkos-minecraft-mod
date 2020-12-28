@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "ikratkosmod:item/crystal_end_eye"
+    }
+}

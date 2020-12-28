@@ -1,0 +1,6 @@
+{
+    "parent": "minecraft:block/cube_all",
+    "textures": {
+        "all": "ikratkosmod:block/black_pearl_block"
+    }
+}
